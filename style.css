@@ -1,0 +1,8 @@
+body{
+  height: 100vh;
+}
+
+.bg-myimage {
+  background-image: url("https://www.beautiful-views.net/views/clouds-fantasy-sky-human.jpg");
+  height: 100%;
+}
