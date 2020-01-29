@@ -7,9 +7,15 @@ body{
   height: 100%;
 }
 
+.bg-mycolor {
+  background: rgb(39,27,12);
+  background: linear-gradient(0deg, rgba(39,27,12,1) 0%, rgba(187,172,137,1) 61%, rgba(79,4,4,1) 100%);
+}
+
 .my-video {
   position: relative;
   width: 100%;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: center;
