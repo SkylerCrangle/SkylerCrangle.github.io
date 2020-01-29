@@ -12,6 +12,10 @@ body{
   background: linear-gradient(0deg, rgba(39,27,12,1) 0%, rgba(187,172,137,1) 61%, rgba(79,4,4,1) 100%);
 }
 
+.bg-myplain {
+  background: rgb(39,27,12);
+}
+
 .my-video {
   position: relative;
   width: 100%;
